@@ -10,8 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a80aa06d-5f46-4da7-816d-b103223dade0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="a80aa06d-5f46-4da7-816d-b103223dade0" name="Default Changelist" comment="fin page html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/KadirWCS/Bootstrap1" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1jBiiQTKWUukK9HDfBUmxnDZrrS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603284012278</updated>
-      <workItem from="1603284014076" duration="136000" />
+      <workItem from="1603284014076" duration="559000" />
     </task>
+    <task id="LOCAL-00001" summary="fin page html">
+      <created>1603284250730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284250730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,10 +86,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="début css" />
+    <MESSAGE value="fin page html" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin page html" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="937" y="369" key="NewPhpFileDialog" timestamp="1603284036310">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="937" y="369" key="NewPhpFileDialog/0.23.1440.829@0.23.1440.829" timestamp="1603284036310" />
+    <state x="640" y="177" key="Vcs.Push.Dialog.v2" timestamp="1603284536250">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="640" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603284536250" />
   </component>
 </project>
